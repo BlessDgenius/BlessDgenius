@@ -1,7 +1,7 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=BlessDgenius.BlessDgenius" />
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Welcome!+👋;+I'm+BlessDgenius!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Robotos&size=35&color=bf2c34&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Welcome!+👋;+I'm+BlessDgenius!;" />
 </h1>
 
 <h3 align="center">A Programmer and Graphic Designer</h3>
@@ -28,7 +28,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
   <a href="https://BlessDgnius.github.io" target="_blank">
-     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
+     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=red" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
   </a>
 </div>
 
@@ -67,7 +67,7 @@
 <hr/>
 
 <h3 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+✌️;+Shoot+me+a+message+on+Linkedin!;I'm+always+down+to+collab+:)">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&color=bf2c34&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+✌️;+Shoot+me+a+message+on+Linkedin!;I'm+always+down+to+collab+:)">
 </h3>
 
 <br/>
